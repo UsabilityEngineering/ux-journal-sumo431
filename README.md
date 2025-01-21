@@ -1,6 +1,6 @@
-# UX Portfolio
-
-About me...
+# Sumomo Okada
+Major: Computer Science
+hobby: playing video game, playing guitar
 
 ## UX Team Project
 
