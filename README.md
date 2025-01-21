@@ -1,6 +1,6 @@
 # Sumomo Okada
-Major: Computer Science
-hobby: playing video game, playing guitar
+⋅⋅⋅Major: Computer Science
+⋅⋅⋅hobby: playing video games, playing guitar
 
 ## UX Team Project
 
